@@ -1,0 +1,51 @@
+query_id	query
+1	Hi. Melissa came by and wrecked my roof. Can you take a look?
+2	"Hi there. This is Jack. I’m looking for someone to install a new sink faucet. Call me back, thanks."
+3	Can you install an automated spotlight by my driveway?
+4	Pest control just cleared out a raccoon that tore up some shingles. Can you fix?
+5	Need toilet unclogged ASAP
+6	My lights keep flickering.
+7	Do you install metal roofs?
+8	Can you fix a garbage disposal that keeps backing up?
+9	Need to install 200 amp circuit to support electric water heater.
+10	What’s the cost of a single ply roof replacement?
+11	Can you replace a boiler?
+12	Circuit breaker keeps popping.
+13	Can you estimate roof repair cost without site visit?
+14	My basement shower smells like sewage.
+15	Ceiling fan install please.
+16	Is asphalt or metal cheaper?
+17	Can you replace pipes with lead sauter?
+18	Kitchen breaker keeps flipping when I run the microwave.
+19	Can you clear a birds nest on my roof?
+20	My sink faucet handle keeps sticking.
+21	Help me wire outside lights.
+22	Is a Spanish tile roof expensive?
+23	Need to install waterfall shower in new construction.
+24	Replace stuck light switch.
+25	Can you check my roof before the hurricane?
+26	Can you install a bidet?
+27	Can you install inset LEDs?
+28	Attic is leaking. Please check.
+29	Ceiling leaking under bathroom. Please check.
+30	Can you wire new construction for Ethernet?
+31	Can you repair rubber roof?
+32	Need plumbing for new bathroom in addition.
+33	Need outlet for bidet.
+34	Do metal roofs really last 30 years?
+35	My kitchen sink always has cloudy water.
+36	Need GFCI outlet installed.
+37	Just got back from vacation and hurricane caused a lot of damage. Can you inspect?
+38	Basement flooded. Please come ASAP.
+39	Outlet doesn’t work.
+40	Do you do insurance paperwork for roofs?
+41	Are copper pipes ok?
+42	Can you check solar panel wiring?
+43	A tree fell on my roof. Can you patch?
+44	Shower water pressure is always week.
+45	My garage door does not respond to remote. Can you check?
+46	Found wood rotting in attic. Do I really need to replace the whole roof?
+47	Can you install a gas hot water heater that can handle 4 showers?
+48	Replace knob and tube.
+49	Had woodpeckers. Need inspection.
+50	Need estimate for new boiler by tomorrow.

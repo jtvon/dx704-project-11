@@ -1,0 +1,59 @@
+query_id	predicted_category
+1	roofing
+2	plumbing
+3	electrical
+4	roofing
+5	plumbing
+6	electrical
+7	roofing
+8	plumbing
+9	electrical
+10	roofing
+11	plumbing
+12	electrical
+13	roofing
+14	plumbing.
+15	electrical
+16	roofing.
+17	"plumbing. the query specifically mentions ""pipes"" and ""lead solder,"" both of which are directly related to plumbing work."
+18	electrical
+19	roofing
+20	plumbing
+21	electrical
+22	roofing
+23	plumbing
+24	electrical
+25	roofing
+26	plumbing
+27	electrical
+28	roofing
+29	plumbing. ceiling leaks under a bathroom are almost always related to plumbing issues (pipes, drains, toilet, etc.).
+30	electrical
+31	roofing
+32	plumbing.
+33	plumbing
+34	roofing
+35	plumbing
+36	electrical
+37	"this query could potentially fall under **roofing** or **plumbing**, and potentially even **electrical**, depending on the specifics of the hurricane damage. here's the breakdown:
+
+*   **roofing:** a hurricane can easily damage a roof, leading to leaks or structural issues. an inspection would be needed to assess the extent of the damage.
+*   **plumbing:** heavy rain and flooding that comes with hurricanes can cause plumbing issues, such as burst pipes, sewage backups, or damage to water heaters. an inspection might be needed to check for leaks and functionality.
+*   **electrical:** hurricanes can damage electrical systems by knocking down power lines, causing surges, or water damage to wiring and electrical panels.
+
+given that the query is open-ended, it's difficult to be 100% certain. but if i had to pick one, i would go with **roofing** because roof damage is very common in hurricanes.
+
+therefore, the best answer is **roofing, plumbing, or electrical** (as it could potentially involve any of the three). if forced to choose only one, **roofing** would be the most likely."
+38	plumbing
+39	electrical
+40	roofing
+41	plumbing
+42	electrical
+43	roofing
+44	plumbing.
+45	electrical.
+46	roofing
+47	plumbing
+48	electrical
+49	roofing
+50	plumbing

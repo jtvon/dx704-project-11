@@ -1,0 +1,1 @@
+Classify the following query, using only a single word, as either roofing, plumbing, or electrical {query}

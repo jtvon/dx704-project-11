@@ -1,0 +1,24 @@
+	query	target_category	predicted_category
+0	My toilet just electrocuted me.	plumbing	electrical
+1	I found shingles in my sink's garbage disposal.	plumbing	"plumbing.
+
+the query mentions a sink and garbage disposal, which are both plumbing-related fixtures. the presence of shingles is unusual but doesn't automatically make it a roofing issue. since it's *in* a plumbing fixture, it falls under that category."
+2	There's a toilet on my roof.	roofing	"while the query mentions a toilet, which is typically related to plumbing, the unusual location (""on my roof"") suggests a more complex or humorous situation. however, based purely on the presence of a toilet, the closest classification would be:
+
+**plumbing**"
+3	The satellite dish fell off the roof and damaged my toilet.	electrical	"this query is best classified as **roofing** and **plumbing**.
+
+here's why:
+
+*   **roofing:** the primary issue is the satellite dish falling off the roof, indicating a problem with the roof's structural integrity or the dish's installation on the roof.
+*   **plumbing:** the falling dish damaged the toilet, creating a plumbing issue.
+
+while the incident involves both roofing and plumbing, the initial cause stems from a roofing-related problem."
+4	There's an exposed wire on my roof that could electrocute someone sitting on the toilet.	electrical	"this query is primarily **electrical**, but also has a secondary aspect related to **roofing**.
+
+here's why:
+
+*   **electrical:** the core issue is the exposed wire and the risk of electrocution. this directly falls under electrical problems.
+*   **roofing:** the location of the wire being on the roof is relevant, as it may suggest the problem originated with how something was installed or a roof repair that exposed the wire.
+
+even though the scenario describes the electrical issue impacting someone on the toilet, the primary expertise needed to address the problem is electrical."
